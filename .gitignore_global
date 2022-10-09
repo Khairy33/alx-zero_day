@@ -1,10 +1,4 @@
-# -*- mode: gitignore; -*-
-
-*~
-
-\#*\#
-
-/.emacs.desktop
+#.desktop
 
 /.emacs.desktop.lock
 
